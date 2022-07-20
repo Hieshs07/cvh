@@ -1,0 +1,50 @@
+<!DOCTYPE html>	
+<html> 
+<head>
+<center>
+<title> Hitesh pesronal website♤</title>
+<h1>[h1,2,3,4,5,6] is use to headline the text</h1>
+</center>
+ </head>
+
+<body> 
+<p>[p]is use for paragraph </p>
+<em> [em]is ise for italic the text</em>
+<br>
+<strong>[storng ]is used for bold the text</strong>
+<p><hr>[hr]is use to draw a line</p>
+
+<em><strong>[em and storng] both use together to bold and italic the text </strong></em>
+<hr>
+<h3>My HOBBIES</h3>
+<hr>
+<ul>
+                <li>here ul tag is unorder list </li>
+               <li>and li tag is list items
+    <ul>
+<li>don't put li in last and put new ul to make the subset of unorder list</li>
+    </ul>
+</ul>
+
+<ol> 
+       <li>order list</li>
+    </ol>
+<ol type="i" >
+     <li> it is ise to create list qith roman no. </li>
+<li>like i ii iii</li>
+</ol>
+<img src="https://images.app.goo.gl/fDNtHoE6pBe1WuCh6" alt="https://images.app.goo.gl/fDNtHoE6pBe1WuCh6 " >
+
+<a href="www.instagram.com " >my instagram account</a>
+
+
+
+
+
+
+</body>
+
+
+
+
+</html> 
